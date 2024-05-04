@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikreddyb" alt="koushikreddyb" /></a> </p>
 
-- 🔭 I’m currently working on [Student Learning Management System](https://github.com/KoushikReddyB/Student-Learning-Management-System)
+- 🔭 I’m currently working on [SecureText](https://github.com/KoushikReddyB/SecureText)
 
-- 🌱 I’m currently learning **Django, MERN**
+- 🌱 I’m currently Working on Projects.
 
-- 💬 Ask me about **Django, Python, Java, C, PostgresSQL**
+- 💬 Ask me about **Django, Python, Java, C, Cybersecurity**
 
 - 📫 How to reach me **koushikreddy2004@gmail.com**
 
