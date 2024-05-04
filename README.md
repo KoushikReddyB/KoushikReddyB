@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SecureText](https://github.com/KoushikReddyB/SecureText)
 
-- 🌱 I’m currently Working on Projects.
+- 🌱 I’m currently learning about **CyberSecurity & Blockchain Technology**
 
 - 💬 Ask me about **Django, Python, Java, C, Cybersecurity**
 
