@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikreddyb" alt="koushikreddyb" /></a> </p>
 
-- 🔭 I’m currently working on [SecureText](https://github.com/KoushikReddyB/SecureText)
+- 🔭 I’m currently working on [SecurePassGuard](https://github.com/KoushikReddyB/SecurePassGuard)
 
 - 🌱 I’m currently learning about **CyberSecurity & Blockchain Technology**
 
