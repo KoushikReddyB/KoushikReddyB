@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikreddyb" alt="koushikreddyb" /></a> </p>
 
-- 🔭 I’m currently working on [HackHavok2.0 CTF WriteUp](https://github.com/KoushikReddyB/HackHavok-2.0-CTF-Writeup)
+- 🔭 I’m currently working on [Blockchain Powered ZeroTrust Identity Verification System](https://github.com/KoushikReddyB/Blockchain-Powered-ZeroTrust-Identity-Verification-System)
 
 - 🌱 I’m currently learning about **CyberSecurity & Blockchain Technology**
 
